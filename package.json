@@ -1,6 +1,6 @@
 {
   "name": "redredisearch",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Redis search for node.js powered by the RediSearch module",
   "keywords": [
     "redis",
